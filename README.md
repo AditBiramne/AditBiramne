@@ -39,6 +39,11 @@ Welcome to my GitHub profile!
 
 ## 🧾 Roles & Contributions
 
+- 🎭 **Cultural Co-Head** *(July 2024 – June 2025)*  
+  - Co-led the college cultural committee, planning and executing major cultural fests, inter-college competitions, and themed campus events.  
+  - Managed student teams, coordinated with faculty and external partners, and handled budgeting and sponsorship activities. 
+  - Boosted student participation and strengthened the college’s cultural presence through high-quality, well-organized events.
+
 - 🧢 **Ex NSS Event Team Head** *(July 2024 – June 2025)*  
   - Led the NSS event management team, organizing awareness drives, social outreach events, and technical activities.  
   - Handled end-to-end planning, logistics, and team coordination for large-scale programs.  
