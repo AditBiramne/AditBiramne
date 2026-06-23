@@ -16,6 +16,7 @@ Welcome to my GitHub profile!
 - 🚀 Developed projects in NLP, recommendation systems, predictive analytics, AI-powered news summarization, and intelligent automation
 - 💼 Founder of AI1 Technologies, delivering software development, automation, web, and AI-driven solutions for businesses
 - ✨ Always curious to learn, build innovative products, and contribute to meaningful technology projects
+
 ---
 
 ## 📜 Certifications
@@ -34,6 +35,14 @@ Welcome to my GitHub profile!
 - 🏢 **Ganishka Technology** – *AI/ML Intern*  
   *July 2024 – December 2024*  
   Worked on NLP and machine learning-based solutions as part of the product team.Developed the [Resume Screening System](https://github.com/AditBiramne/Resume-Screening-System) – a Flask-based application using     `spaCy` to extract and evaluate key candidate information from resumes, streamlining the recruitment process.
+
+---
+
+## 📚 Publications
+
+- Biramne, A. *Multi-Source News Synthesizer Using Deep Learning*.  
+  **International Journal of Innovative Research in Technology (IJIRT)**, ISSN 2349-6002, Vol. 12, Issue 11, April 2026.  
+  Impact Factor: 8.412.
 
 ---
 
