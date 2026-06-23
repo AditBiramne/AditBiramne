@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 
 ## 🧪 Internships
 
-- 🏢 **Indian Oil Corporation Limited (IOCL)** – *Data Science Intern*  
+- 🏢 **Indian Oil Corporation Limited (IOCL)** – *AI/ML Intern*  
   *June 2025 – August 2025*  
   Developing an AI model to identify and flag negative news articles about IOCL using NLP techniques. The project involved collecting news data, performing sentiment analysis, and building a pipeline to detect      reputation-sensitive content using Python and machine learning libraries.
 
