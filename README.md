@@ -8,14 +8,14 @@ Welcome to my GitHub profile!
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a 4th Year Computer Engineering student at MGM College of Engineering, University of Mumbai
-- 🏢 Currently interning on-site at Indian Oil Corporation Ltd. (IOCL) in the Networks & SAP Department, gaining hands-on experience in enterprise infrastructure and ERP systems
-- 🔍 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
-- 🐍 Python is my go-to language for building intelligent solutions  
-- 📊 I enjoy working with data using Pandas, NumPy, Seaborn, and Scikit-learn  
-- 🌐 Currently exploring full-stack development with Flask and automation-based solutions  
-- ✨ Always curious to learn and contribute to meaningful tech projects
-
+- 🎓 Computer Engineering graduate from MGM College of Engineering, University of Mumbai
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development
+- 🐍 Python is my go-to language for building intelligent applications, automation tools, and backend systems
+- 📊 Experienced in data analysis and machine learning using Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn
+- 🌐 Building web applications, APIs, and automation solutions using Flask, MySQL, and Firebase
+- 🚀 Developed projects in NLP, recommendation systems, predictive analytics, AI-powered news summarization, and intelligent automation
+- 💼 Founder of AI1 Technologies, delivering software development, automation, web, and AI-driven solutions for businesses
+- ✨ Always curious to learn, build innovative products, and contribute to meaningful technology projects
 ---
 
 ## 📜 Certifications
